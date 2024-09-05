@@ -68,11 +68,11 @@ const Footer = () => {
             <h4>Contact</h4>
             <div>
               <FaPhone />
-              <span>999-999-9999</span>
+              <span>999-988-9999</span>
             </div>
             <div>
               <MdEmail />
-              <span>jatin@gmail.com</span>
+              <span>zeecare@iitg.ac.in</span>
             </div>
             <div>
               <FaLocationArrow />
