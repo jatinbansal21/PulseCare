@@ -13,6 +13,7 @@ const Hero = ({ title, imageUrl }) => {
             delivering personalized care tailored to each patient's needs. At
             ZeeCare, we prioritize your well-being, ensuring a harmonious
             journey towards optimal health and wellness.
+            Welcome to ZeeCare for easy communication.
           </p>
         </div>
         <div className="banner">
