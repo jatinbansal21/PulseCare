@@ -34,6 +34,6 @@ To get started with the Hospital Management System:
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm start`.
-5. Add the required URLs in .env file in backend folder.
+5. Add the required URLs in `.env` file in backend folder.
 6. Access the application in your browser at `http://localhost:3000`.
 
